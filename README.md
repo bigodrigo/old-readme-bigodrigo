@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao perfil de Rodrigo Boquer - Bigodrigo :wink:
+## Welcome to the profile of Rodrigo Boquer - Bigodrigo :wink:
 
- Sou uma pessoa bastante comunicativa, apaixonado por música e tecnologia, com uma personalidade inquieta, sempre em busca de soluções profissionais rápidas que mantenham uma qualidade satisfatória.
+I am a highly articulate individual who possesses a fervent interest in both music and technology. Moreover, my dynamic personality drives me to constantly seek expedient solutions that uphold optimum standards of quality in my professional endeavors.
 
  <div align="center">
    <a href="https://github.com/Bigodrigo">
