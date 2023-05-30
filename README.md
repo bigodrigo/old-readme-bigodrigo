@@ -29,6 +29,7 @@ I am a highly articulate individual who possesses a fervent interest in both mus
   <a href="https://www.linkedin.com/in/rodrigo-boquer-064298166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <!--START_SECTION:activity-->
+ <!--END_SECTION:activity-->
  
   ![Snake animation](https://github.com/Bigodrigo/Bigodrigo/blob/output/github-contribution-grid-snake.svg)
 
