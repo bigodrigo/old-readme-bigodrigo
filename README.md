@@ -32,8 +32,11 @@ I am a highly articulate individual who possesses a fervent interest in both mus
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
   ![Snake animation](https://github.com/Bigodrigo/Bigodrigo/blob/output/github-contribution-grid-snake.svg)
