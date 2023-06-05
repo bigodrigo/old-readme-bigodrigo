@@ -2,10 +2,14 @@
 
 I am a highly articulate individual who possesses a fervent interest in both music and technology. Moreover, my dynamic personality drives me to constantly seek expedient solutions that uphold optimum standards of quality in my professional endeavors.
 
+   [![Bigodrigo GitHub stats](https://github.com/Bigodrigo/Bigodrigo/raw/grs/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+
  <div align="center">
    <img height="180em" src="https://github-readme-stats.bigodrigo.vercel.app/api?username=Bigodrigo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.bigodrigo.vercel.app/api/top-langs/?username=Bigodrigo&layout=compact&langs_count=6&theme=react"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigodrigo&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
