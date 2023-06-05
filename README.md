@@ -10,7 +10,7 @@ I am a highly articulate individual who possesses a fervent interest in both mus
 </div>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigodrigo&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigodrigo&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigodrigo&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
