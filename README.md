@@ -45,7 +45,9 @@ I am a highly articulate individual who possesses a fervent interest in both mus
   <img align="center" alt="Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  </div>
+ 
 ---
+
   ![Snake animation](https://github.com/Bigodrigo/Bigodrigo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
