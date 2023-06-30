@@ -49,7 +49,7 @@ I am a highly articulate individual who possesses a fervent interest in both mus
  
 ---
 
-  ![Snake animation](https://github.com/bigodrigo/Bigodrigo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/bigodrigo/bigodrigo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
