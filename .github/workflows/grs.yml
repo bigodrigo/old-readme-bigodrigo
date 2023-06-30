@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Stats Card
     steps:
+      - name: GRS Action
+        uses: Zo-Bro-23/grs-action@v0.0.1
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate Stats
